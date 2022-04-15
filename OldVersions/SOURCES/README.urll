@@ -1,0 +1,26 @@
+--URLL-version=2;
+-- Start of script
+
+-- Seanpm2001/Learn-1C-Enterprise/SOURCES.urll
+-- Sources for learning on this project
+
+-- The Quora post that started it all:
+https://www.quora.com/Do-Russians-use-the-Cyrillic-alphabet-to-do-computer-programming
+
+-- Some source code remixed from:
+https://github.com/1C-Developer-Network/MobileScanner
+
+-- Parent organization:
+https://github.com/1C-Developer-Network/
+
+-- Hello World program used this project for inspiration. It later made its way to the project language file as well:
+https://github.com/leachim6/hello-world/blob/main/%23/1C%20Enterprise
+
+-- End of source list
+
+-- File info
+-- File type: URLL shortcut file (*.urll)
+-- File version: 1 (2022, Thursday, April 14th at 5:35 pm PST)
+-- Line count (including blank lines and compiler line): 27
+
+-- End of script
